@@ -4,7 +4,7 @@ Die ESP32 Steuerungs-Platine wurde als Hardware zum MicroPython-basierten [Open 
 
 # Urheberschaft / Lizenz
 
-Das Platinenlayout wurde von der [TUG Herrenberg](https://tug-herrenberg.de) entwickelt, Dokumentation und Software stammen von der [binary butterfly GmbH](https://binary-butterfly.de). Die Platine wurde im Rahmen des Förderprojektes [Stadtnavi](https://stadtnavi.de) entwickelt.
+Das Platinenlayout wurde von der [TUG Herrenberg](https://tug-herrenberg.de) entwickelt, Dokumentation und Software stammen von der [binary butterfly GmbH](https://binary-butterfly.de). Die Platine wurde im Rahmen des Förderprojektes [stadtnavi](https://stadtnavi.de) entwickelt.
 
 Alle Daten im Repository stehen unter der [Creative Commons BY](https://creativecommons.org/licenses/by/4.0/).
 
